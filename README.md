@@ -1,6 +1,6 @@
 # synocodectool-patch
 
-![GitHub last commit](https://img.shields.io/github/last-commit/likeadoc/synocodectool-patch)
+![GitHub last commit](https://img.shields.io/github/last-commit/Yanom1212/synocodectool-patch)
 
 This patch enables transcoding on Synologys DiskStation Manager 6+ without a valid serial number.
 The structure is loosely based on https://github.com/keylase/nvidia-patch
